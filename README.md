@@ -1,4 +1,4 @@
-# TPHG4PLSWC-DTC
+# ThreePartyHG4PLS
 This project is the source code for paper "A Three-Party Hierarchical Game for Physical Layer Security Aware Wireless Communications with Dynamic Trilateral Coalitions".
 All simulation code is included in folder ../main, and 
 
