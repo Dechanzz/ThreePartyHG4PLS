@@ -17,20 +17,21 @@ All simulation codes are included in folder `../main`, and correspoding figure-d
 🙏Please respect the intellectual property and academic integrity by not plagiarizing or using this code for any purpose other than reference until the publication of the associated paper.
 
 ***
-🎄The file structure of this project:
-TPHG4PLSWC-DTC
-      |     
-      |------main
-      |        |------main.py
-      |        |------PPOdiscrete.py
-      |        |------argsettings.py
-      |
-      |
-      |
-      |
+## Project Structure
+🎄The file structure of this project:<br>
+TPHG4PLSWC-DTC<br>
+      |                                            <br>
+      |------main                                  <br>
+      |        |------main.py <br>
+      |        |------PPOdiscrete.py <br>
+      |        |------argsettings.py <br>
+      |                                            <br>     
+      |                                            <br>
+      |                                            <br>
+      |                                            <br>
 
 ***
-## Update & upload log
+## Update & Ppload Log
 - ***2023/07/12*** create the project "ThreePartyHG4PLS";
 - ***2023/07/14*** upload file folder [https://github.com/Dechanzz/ThreePartyHG4PLS/simDRAW](https://github.com/Dechanzz/ThreePartyHG4PLS/tree/main/simDRAW "all figure-drawing codes and data file") , which includes all MatLab R2021a codes for drawing the figures in our manuscript, and corresponding simulation outcome data (recorded in .csv files);
 
