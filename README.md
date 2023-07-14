@@ -20,15 +20,15 @@ All simulation codes are included in folder `../main`, and correspoding figure-d
 ## Project Structure
 🎄The file structure of this project:<br>
 TPHG4PLSWC-DTC<br>
-      |                                            <br>
+      | &nbsp; <br>
       |------main                                  <br>
-      |        |------main.py <br>
-      |        |------PPOdiscrete.py <br>
-      |        |------argsettings.py <br>
-      |                                            <br>     
-      |                                            <br>
-      |                                            <br>
-      |                                            <br>
+      |&nbsp;&nbsp;|------main.py <br>
+      |&nbsp;&nbsp;|------PPOdiscrete.py <br>
+      |&nbsp;&nbsp;|------argsettings.py <br>
+      | &nbsp; <br>     
+      | &nbsp; <br>
+      | &nbsp; <br>
+      | &nbsp; <br>
 
 ***
 ## Update & Ppload Log
