@@ -30,7 +30,7 @@ TPHG4PLSWC-DTC
       |
 
 ***
-##Update & upload log
+## Update & upload log
 - ***2023/07/12*** create the project "ThreePartyHG4PLS";
 - ***2023/07/14*** upload file folder [https://github.com/Dechanzz/ThreePartyHG4PLS/simDRAW](https://github.com/Dechanzz/ThreePartyHG4PLS/tree/main/simDRAW "all figure-drawing codes and data file") , which includes all MatLab R2021a codes for drawing the figures in our manuscript, and corresponding simulation outcome data (recorded in .csv files);
 
