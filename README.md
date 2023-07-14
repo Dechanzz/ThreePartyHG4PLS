@@ -24,8 +24,7 @@ TPHG4PLSWC-DTC<br>
       |------main                                  <br>
       |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------main.py <br>
       |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------PPOdiscrete.py <br>
-      |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------argsettings.py 
-      |&nbsp;&nbsp;<br>     
+      |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------argsettings.py <br>  
       |&nbsp;&nbsp;<br>
       |&nbsp;&nbsp;<br>
       |&nbsp;&nbsp;
