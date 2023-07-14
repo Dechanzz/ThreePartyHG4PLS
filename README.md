@@ -1,6 +1,8 @@
 # ThreePartyHG4PLS
 This project is the source code for paper "A Three-Party Hierarchical Game for Physical Layer Security Aware Wireless Communications with Dynamic Trilateral Coalitions".
-All simulation code is included in folder ../main, and 
+All simulation codes are included in folder ../main, and correspoding figure-drawing codes together with outcome data are present in folder ../simDRAW.
+
+:sparkles:***We will upload & update all project codes and data files before July 20, 2023, please wait.***
 
 ## Disclaimer
 
@@ -14,8 +16,7 @@ All simulation code is included in folder ../main, and
 🙏Please respect the intellectual property and academic integrity by not plagiarizing or using this code for any purpose other than reference until the publication of the associated paper.
 
 
-the file structure of our structure is
-
+🎄The file structure of this project:
 TPHG4PLSWC-DTC
       |     
       |------main
@@ -29,6 +30,7 @@ TPHG4PLSWC-DTC
 
 
 ##Update & upload log
+- ***2023/07/12*** create the project "ThreePartyHG4PLS";
 - ***2023/07/14*** upload file folder [https://github.com/Dechanzz/ThreePartyHG4PLS/simDRAW](https://github.com/Dechanzz/ThreePartyHG4PLS/tree/main/simDRAW "all figure-drawing codes and data file") , which includes all MatLab R2021a codes for drawing the figures in our manuscript, and corresponding simulation outcome data (recorded in .csv files);
 
 
