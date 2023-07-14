@@ -1,5 +1,5 @@
 # ThreePartyHG4PLS
-This project is the source code for paper "A Three-Party Hierarchical Game for Physical Layer Security Aware Wireless Communications with Dynamic Trilateral Coalitions".
+:sparkling_heart: This project is the source code for paper "A Three-Party Hierarchical Game for Physical Layer Security Aware Wireless Communications with Dynamic Trilateral Coalitions".
 All simulation codes are included in folder ../main, and correspoding figure-drawing codes together with outcome data are present in folder ../simDRAW.
 
 :sparkles:***We will upload & update all project codes and data files before July 20, 2023, please wait.***
