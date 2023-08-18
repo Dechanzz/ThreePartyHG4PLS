@@ -32,8 +32,8 @@ TPHG4PLSWC-DTC<br>
 ## Update & Ppload Log
 - ***2023/07/12*** create the project "ThreePartyHG4PLS";
 - ***2023/07/14*** upload file folder [https://github.com/Dechanzz/ThreePartyHG4PLS/simDRAW](https://github.com/Dechanzz/ThreePartyHG4PLS/tree/main/simDRAW "all figure-drawing codes and data file") , which includes all MatLab R2021a codes for drawing the figures in our manuscript, and corresponding simulation outcome data (recorded in .csv files);
-
-
+- ***2023/07/15*** upload file folder [https://github.com/Dechanzz/ThreePartyHG4PLS/simDRAW](https://github.com/Dechanzz/ThreePartyHG4PLS/tree/main/PSObenchmark "all codes for PSO-related benchmarks") , which includes all codes for model-based PSO-related benchmarks in our manuscript;
+- ***2023/07/16*** upload file folder [https://github.com/Dechanzz/ThreePartyHG4PLS/simDRAW](https://github.com/Dechanzz/ThreePartyHG4PLS/tree/main/main "all experimantal codes for proposed DRL-based solution") , which includes all experimantal codes for proposed DRL-based solution and other benchmarks in our manuscript;
 
 
 
